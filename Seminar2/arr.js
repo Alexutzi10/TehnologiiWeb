@@ -23,6 +23,7 @@ for (item in arr) {
     console.log(item);
 }
 
+//arrow expression
 arr.forEach(item => {
     console.log(item);
 })
